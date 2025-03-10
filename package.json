@@ -2,10 +2,10 @@
   "name": "crud",
   "version": "1.0.0",
   "description": "✅ Add a name  \r ✅ Get all names  \r ✅ Get a name by ID  \r ✅ Update a name  \r ✅ Delete a name",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
